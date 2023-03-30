@@ -8,4 +8,5 @@
   <br>
   No momento estou me dedicando aos estudos de <strong>JavaScript</strong> como minha primeira linguagem de programação;
   <br>
+  </p>
   
