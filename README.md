@@ -28,8 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=photoshop&logoColor=007ACC&labelColor=0D1117)&nbsp;
- 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=007ACC&labelColor=0D1117)&nbsp;
+  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
